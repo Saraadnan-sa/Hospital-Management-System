@@ -1,0 +1,4 @@
+appointmentId,doctorId,patientId,startTime(in 24-hr format)
+1,-1,3,9
+2,-1,5,9
+3,-1,5,10

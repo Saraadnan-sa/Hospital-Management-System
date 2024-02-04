@@ -1,0 +1,11 @@
+doctorId,firstName,lastName,gender,age,mobNumber,address,type,appointmentsBooked,fees
+1,Abdul,Malik,M,38,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,Dermatologist,0,2500
+2,Farah,Hussain,F,32,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,Gynecologist,0,4000
+3,Usman,Ahmed,M,45,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,Orthopedic Surgeon,0,4500
+4,Saima,Khan,F,52,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,ENT,0,2500
+5,Hassan,Ali,M,41,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,Neurologist,0,3500
+6,Aisha,Malik,F,35,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,Psychiatrist,0,3500
+7,Naveed,Iqbal,M,47,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,ENT,0,3000
+8,Zainab,Ahmed,F,29,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,Pediatrician,0,2500
+9,Imran,Qureshi,M,56,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,Cardiologist,0,4000
+10,Nazia,Khan,F,43,03001232753, 14-C Shahrah-e-Faisal``Karachi`Pakistan,Dentist,0,2000

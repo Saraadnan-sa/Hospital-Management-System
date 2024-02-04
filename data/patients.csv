@@ -1,0 +1,11 @@
+patientId,firstName,lastName,gender,age,mobNumber,address,height,weight,wasHospitalized?,stillAlive(ifHospitalized)?
+1,Ali,Raza,M,42, 03001234567, 7-B Gulberg``Lahore`Pakistan,170,150,N,Y
+2,Fatima,Khan,F,30, 03001234567, 14-C Shahrah-e-Faisal``Karachi`Pakistan,155,120,N,Y
+3,Mohammad,Ahmed,M,55, 03001234567, 9-D Model Town``Islamabad`Pakistan,180,140,N,Y
+4,Ayesha,Malik,F,48, 03001234567, 25-A Faisalabad Road``Rawalpindi`Pakistan,160,135,N,Y
+5,Hassan,Abbas,M,37, 03001234567, 12-E Blue Area``Islamabad`Pakistan,175,160,N,Y
+6,Samina,Khan,F,62, 03001234567, 5-F DHA`Karachi``Pakistan,150,110,N,Y
+7,Imran,Ali,M,28, 03001234567, 11-G Johar Town``Lahore`Pakistan,165,125,N,Y
+8,Sana,Ahmed,F,35, 03001234567, 19-H Saddar``Peshawar`Pakistan,155,115,N,Y
+9,Farhan,Malik,M,50, 03001234567, 8-I Gulshan-e-Iqbal``Karachi`Pakistan,170,140,N,Y
+10,Nazia,Butt,F,45, 03001234567, 16-J F-10``Islamabad`Pakistan,160,130,N,Y

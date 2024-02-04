@@ -1,0 +1,3 @@
+ambulanceId,model,manufacturer,vrn,idle?,headedTowards(ifNotIdle),driverID(ifNotIdle)
+1,TATA X9,TATA,MH02JK3012,N,EXAMPLE^ LINE^ 1``EXAMPLE CITY`EXAMPLE STATE,1
+2,2019,TYOTA,AFB45,N,F-7`'Islamabad`Pakistan`,2
